@@ -3,33 +3,35 @@
   const quotes = [
     {
       quote:
-        "Life is too short and sweet to be spent by cribbing and complaining about things. Here are some random quotes about the most wonderful gift that we've got",
-      author: " Life"
+        "When someone comes along and expresses him or herself as freely as they think, people flock to it. They enjoy it.",
+      author: "Joe Rogan"
     },
     {
       quote:
-        "Humor is richly rewarding to the person who employs it. It has some value in gaining and holding attention. But it has no persuasive value at all",
-      author: "John Kenneth Galbraith"
+        "Because I have a girlfriend, I try and take the straight and narrow path, which is good because it prevents VD.",
+      author: "Joe Rogan"
     },
     {
       quote:
-        "God save me from my friends. I can protect myself from my enemies.",
-      author: "Claude Louis Hector de Villars "
-    },
-    {
-      quote: "The price of anything is the amount of life you exchange for it.",
-      author: "David Thoreau"
+        "It's painful for me to watch someone who isn't funny. It's horrifying to sit in the back and watch some guy who just totally sucks.",
+      author: "Joe Rogan"
     },
     {
       quote:
-        "Life is like a landscape. You live in the midst of it but can describe it only from the vantage point of distance. ",
-      author: "Charles Lindbergh"
+        "That's my only goal. Surround myself with funny people, and make sure everyone has a good time and works hard",
+      author: "Joe Rogan"
     },
     {
       quote:
-        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
-      author: " Tyne Daly"
-    }
+        "The only time I commit to conspiracy theories is when something way retarded happens. Like Lee Harvey Oswald acting alone.",
+      author: "Joe Rogan"
+    },
+    {
+      quote:
+        "Never stay in a bad marriage, and don't hang around with psycho coke fiends.",
+      author: "Joe Rogan"
+    },
+    
   ];
 
   const btn = document.getElementById("generate-btn");
